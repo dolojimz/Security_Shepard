@@ -21,7 +21,7 @@ Time spent: **4** hours spent in total
     - Tested in version:
     - Fixed in version: 
   - [ ] GIF Walkthrough: 
-  ![Large File Attack](Security_Shepard/LargeFileAttack.gif)
+  ![Large File Attack](https://github.com/dolojimz/Security_Shepard/blob/master/LargeFileAttack.gif)
       
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
