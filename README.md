@@ -12,7 +12,8 @@ Time spent: **4** hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.2.4
   - [ ] GIF Walkthrough: ![Accesibility Attack](https://github.com/dolojimz/Security_Shepard/blob/master/AccessibilityAttck.gif)
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+    - [ ] Steps to recreate: Insert Javascript code into Font Settings titles in Accesbility Options
+    
 1. (Required) WordPress	3.3-4.7.4	- Large	File	Upload	Error	XSS
   - [ ] Summary: 
     - Vulnerability types: XSS
@@ -20,18 +21,23 @@ Time spent: **4** hours spent in total
     - Fixed in version: 4.2.15 
   - [ ] GIF Walkthrough: 
   ![Large File Attack](https://github.com/dolojimz/Security_Shepard/blob/master/LargeFileAttack.gif)
+    - [ ] Steps to recreate: Add javascript code into photo that is too large to upload and attempt to upload the image
+
 1. (Required) WordPress	<=	4.2.3	- Widgets	Title	Cross-Site	Scripting	(XSS)
   - [ ] Summary: 
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.4
   - [ ] GIF Walkthrough: ![Widget Attack](https://github.com/dolojimz/Security_Shepard/blob/master/widgetAttck.gif)
+    - [ ] Steps to recreate: Add javascript code into text widget 
+
 1. (Optional) WordPress	<=	4.3	- Authenticated	Shortcode	Tags	Cross-Site	Scripting	(XSS)
   - [ ] Summary: 
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.5
   - [ ] GIF Walkthrough: ![Short Code Attack](https://github.com/dolojimz/Security_Shepard/blob/master/xssVulnAttack.gif)
+    - [ ] Steps to recreate: Add javascript code to body of a new page 
 
 ## Assets
 
