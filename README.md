@@ -6,44 +6,32 @@ Time spent: **4** hours spent in total
 
 ## Pentesting Report
 
-1. (Required) Vulnerability Name or ID
+1. (Required) WordPress	<=	4.2.3	- Nav	Menu	Title	Cross-Site	Scripting	(XSS)
   - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
+    - Vulnerability types: XSS
+    - Tested in version: 4.2
+    - Fixed in version: 4.2.4
+  - [ ] GIF Walkthrough: ![Accesibility Attack](https://github.com/dolojimz/Security_Shepard/blob/master/AccessibilityAttck.gif)
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-1. (Required) Vulnerability Name or ID
+1. (Required) WordPress	3.3-4.7.4	- Large	File	Upload	Error	XSS
   - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
+    - Vulnerability types: XSS
+    - Tested in version: 4.2
+    - Fixed in version: 4.2.15 
   - [ ] GIF Walkthrough: 
   ![Large File Attack](https://github.com/dolojimz/Security_Shepard/blob/master/LargeFileAttack.gif)
-      
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-1. (Required) Vulnerability Name or ID
+1. (Required) WordPress	<=	4.2.3	- Widgets	Title	Cross-Site	Scripting	(XSS)
   - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-1. (Optional) Vulnerability Name or ID
+    - Vulnerability types: XSS
+    - Tested in version: 4.2
+    - Fixed in version: 4.2.4
+  - [ ] GIF Walkthrough: ![Widget Attack](https://github.com/dolojimz/Security_Shepard/blob/master/widgetAttck.gif)
+1. (Optional) WordPress	<=	4.3	- Authenticated	Shortcode	Tags	Cross-Site	Scripting	(XSS)
   - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+    - Vulnerability types: XSS
+    - Tested in version: 4.2
+    - Fixed in version: 4.2.5
+  - [ ] GIF Walkthrough: ![Short Code Attack](https://github.com/dolojimz/Security_Shepard/blob/master/xssVulnAttack.gif)
 
 ## Assets
 
